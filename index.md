@@ -62,12 +62,11 @@ I'm currently pursuing a master degree at Institute of Computing Technology, Chi
   In *Proceedings of IEEE International Conference on Ubiquitous Intelligence and Computing* (**UIC-19**). Leicester, UK. Aug. 19-23, 2019. Pages 1-8. (Full paper)
 - FedHealth: A Federated Transfer Learning Framework for Wearable Healthcare. <a href="https://arxiv.org/pdf/1907.09173.pdf">[PDF]</a>  
   Yiqiang Chen, Xin, Qin, Jindong Wang, **Chaohui Yu**, Wen Gao.  
+  In *IJCAI-19 Workshop on Federated Machine Learning*. Macao, China. Aug. 10-16, 2019. Pages 1-8. (**Best Application Paper**)  
   To appear in *IEEE Intelligent Systems*.
 - Transfer Channel Prunning for Deep Unsupervised Domain Adaptation. <a href="http://link.springer.com/article/10.1007/s13042-019-01004-6">[LINK]</a>  
   **Chaohui Yu**, Jindong Wang, Yiqiang Chen, Xin Qin.  
   In *International Journal of Machine Learning and Cybernetics* (**IJMLC**). Volume 10, Issue 11, 2019. Pages 3129-3144.
-
-
 - Accelerating Deep Unsupervised Domain Adaptation with Transfer Channel Prunning. <a href="https://arxiv.org/pdf/1904.02654.pdf">[PDF]</a>  <a href="https://github.com/jindongwang/transferlearning/blob/master/code/deep/TCP/README.md">[CODE]</a>  
   **Chaohui Yu**, Jindong Wang, Yiqiang Chen, Zijing Wu.  
   In *Proceedings of International Joint Conference on Neural Networks* (**IJCNN-19**). Budapest, Hungary. July 14-19, 2019. Pages 1-8. (Full paper, Oral)
