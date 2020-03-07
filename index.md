@@ -30,13 +30,24 @@ I'm currently pursuing a master degree at Institute of Computing Technology, Chi
 - Learning: machine learning, deep learning, transfer learning, meta-learning.
 - Application: object detection, activity recognition, etc.
 
-### Research Experience
+### Work Experience
 ---
-- xxx
+- Alibaba DAMO Academy, Beijing, China. (2019.06 - 2019.09)  
+  o Algorithm intern at Machine Intelligence.  
+  o Engage in pedestrian and face detection.
+- Face++, Beijing, China. (2018.03 - 2018.12)  
+  Algorithm intern at Detection Group.  
+  Engage in small face detection.
+- DeepGlint, Beijing, China. (2016.10 - 2017.02)  
+  Algorithm intern at Algorithm Group.  
+  Engage in distributed crawler, face recognition, Caffe automatic training system.
+- Intel, Beijing, China. (2016.07 - 2016.10)  
+  Development intern at Linux Kernel Dev and Test Group.
 
 ### Education
 ---
-- xxx
+- M.S. in Computer Science (2017 - 2020), Institute of Computing Technology, Chinese Academy of Sciences (<a href="http://english.ict.cas.cn/">ICT</a>, <a href="http://english.cas.cn/">CAS</a>).
+- B.E. in Communication Engineering (2013 - 2017), Shandong University, Shandong, China.
 
 ### Publications
 ---
