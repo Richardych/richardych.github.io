@@ -11,7 +11,7 @@
       <p><b>Email：superhuiych@gmail.com</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">
+      <img src="/me.jpeg" width="100%">
     </td>
   </tr>
 </table>
