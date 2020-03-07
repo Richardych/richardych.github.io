@@ -19,7 +19,7 @@
 
 ### News
 ---
-- ×××
+- 2019-10: Paper Cross-dataset activity recognition via adaptive spatial-temporal transfer learning has been accepted by UbiComp 2020.
 
 ### Short Bio
 ---
@@ -41,9 +41,6 @@
 ---
 ### Conference papers
 - xxx
-### Journal articles
-- xxx
-### Workshop papers
 - xxx
 
 ### Projects
