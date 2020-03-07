@@ -78,7 +78,10 @@ I'm currently pursuing a master degree at Institute of Computing Technology, Chi
 
 ### Awards and Honors
 ---
-- xxx
+- National Scholarship for Master students, Ministry of Education 2019.
+- Best Application Paper Award. IJCAI-19 Federated Machine Learning Workshop 2019.
+- Merit Student, University of Chinese Academy of Sciences (UCAS) 2019.
+- Excellent Graduate, Shandong University (SDU) 2017.
 
 ### Skills
 ---
