@@ -91,3 +91,6 @@ I'm currently pursuing a master degree at Institute of Computing Technology, Chi
 - Coding: Python, C++, Shell, Java, QT.
 - AI: PyTorch, Mxnet, Megbrain.
 - Tools: Linux, Android, Latex, Git, Vim, Docker, Mesos, Scrapy, Webpy
+
+[img]http://cc.amazingcounters.com/counter.php?i=3244764&c=9734605[/img]
+[url=http://www.amazingcounters.com]AmazingCounters.com[/url]
