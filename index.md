@@ -51,10 +51,12 @@ I'm currently pursuing a master degree at Institute of Computing Technology, Chi
 
 ### Publications
 ---
+- DrowsyDet: A Mobile Application for Real-Time Driver Drowsiness Detection.  
+  **Chaohui Yu**, Xin Qin, Yiqiang Chen, Jindong Wang, Chenchen Fan.  
+  In *Proceedings of IEEE International Conference on Ubiquitous Intelligence and Computing* (UIC-19). Leicester, UK. Aug. 19-23, 2019. Pages 1-8. (Full paper)
 - Accelerating Deep Unsupervised Domain Adaptation with Transfer Channel Prunning. <a href="https://arxiv.org/pdf/1904.02654.pdf">[PDF]</a>  <a href="https://github.com/jindongwang/transferlearning/blob/master/code/deep/TCP/README.md">[CODE]</a>  
   **Chaohui Yu**, Jindong Wang, Yiqiang Chen, Zijing Wu.  
-  In Proceedings of International Joint Conference on Neural Networks (IJCNN-19). Budapest, Hungary. July 14-19, 2019. Pages 1-8. (Full paper, Oral)
-- xxx
+  In *Proceedings of International Joint Conference on Neural Networks* (IJCNN-19). Budapest, Hungary. July 14-19, 2019. Pages 1-8. (Full paper, Oral)
 
 ### Projects
 ---
