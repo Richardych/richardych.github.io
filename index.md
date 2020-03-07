@@ -74,7 +74,10 @@ I'm currently pursuing a master degree at Institute of Computing Technology, Chi
 ### Projects
 ---
 - Participating in a popular transfer learning resource projects on Github: <a href="http://transferlearning.xyz/">Transfer Learning</a>.
-- AI camera.
+- AI camera: <a href="https://github.com/Richardych/Android_caffe2_classification">AI Camera</a>  <a href="https://zhuanlan.zhihu.com/p/32342366">[tutorial]</a>.
+- A Caffe automatic training system demo based on Docker and Mesos: <a href="https://github.com/Richardych/AutoTrainSystem/blob/master/README.md">AutoTrainSystem</a>.
+- A simple distributed crawler for face pictures: <a href="https://github.com/Richardych/badoo_scrapy_splash_redis/blob/master/README.md">Distributed Crawler</a>.
+- Smart home system project, an embedded linux project based on Tiny6410: <a href="https://github.com/Richardych/6410_SmartHomeSystem/blob/master/README.md">SmartHome</a>.
 
 ### Awards and Honors
 ---
