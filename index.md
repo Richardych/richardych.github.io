@@ -82,4 +82,6 @@ I'm currently pursuing a master degree at Institute of Computing Technology, Chi
 
 ### Skills
 ---
-- xxx
+- Coding: Python, C++, Shell, Java, QT.
+- AI: PyTorch, Mxnet, Megbrain.
+- Tools: Linux, Android, Latex, Git, Vim, Docker, Mesos, Scrapy, Webpy
