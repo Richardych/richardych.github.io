@@ -33,8 +33,8 @@ I'm currently pursuing a master degree at Institute of Computing Technology, Chi
 ### Work Experience
 ---
 - Alibaba DAMO Academy, Beijing, China. (2019.06 - 2019.09)  
-  o Algorithm intern at Machine Intelligence.  
-  o Engage in pedestrian and face detection.
+  Algorithm intern at Machine Intelligence.  
+  Engage in pedestrian and face detection.
 - Face++, Beijing, China. (2018.03 - 2018.12)  
   Algorithm intern at Detection Group.  
   Engage in small face detection.
@@ -51,8 +51,9 @@ I'm currently pursuing a master degree at Institute of Computing Technology, Chi
 
 ### Publications
 ---
-### Conference papers
-- xxx
+- Accelerating Deep Unsupervised Domain Adaptation with Transfer Channel Prunning. <a href="https://arxiv.org/pdf/1904.02654.pdf">[PDF]</a>  <a href="https://github.com/jindongwang/transferlearning/blob/master/code/deep/TCP/README.md">[CODE]</a>  
+  **Chaohui Yu**, Jindong Wang, Yiqiang Chen, Zijing Wu.  
+  In Proceedings of International Joint Conference on Neural Networks (IJCNN-19). Budapest, Hungary. July 14-19, 2019. Pages 1-8. (Full paper, Oral)
 - xxx
 
 ### Projects
