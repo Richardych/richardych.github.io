@@ -51,29 +51,30 @@ I'm currently pursuing a master degree at Institute of Computing Technology, Chi
 
 ### Publications
 ---
-- Cross-dataset Activity Recognition via Adaptive Spatial-temporal Transfer Learning. <a href="http://jd92.wang/assets/files/a20_ubicomp20.pdf">[PDF]</a>  <a href="https://dl.acm.org/doi/abs/10.1145/3369818">[LINK]</a>  
+1. Cross-dataset Activity Recognition via Adaptive Spatial-temporal Transfer Learning. <a href="http://jd92.wang/assets/files/a20_ubicomp20.pdf">[PDF]</a>  <a href="https://dl.acm.org/doi/abs/10.1145/3369818">[LINK]</a>  
   Xin Qin, Yiqiang Chen, Jindong Wang, **Chaohui Yu**.  
   To appear in *ACM International Joint Conference on Pervasive and Ubiquitous Computing* (**UbiComp-20**).
-- Transfer Learning with Dynamic Adversarial Adaptation Network. <a href="https://arxiv.org/pdf/1909.08184.pdf">[PDF]</a>  <a href="https://github.com/jindongwang/transferlearning/blob/master/code/deep/DAAN/README.md">[CODE]</a>  
+2. Transfer Learning with Dynamic Adversarial Adaptation Network. <a href="https://arxiv.org/pdf/1909.08184.pdf">[PDF]</a>  <a href="https://github.com/jindongwang/transferlearning/blob/master/code/deep/DAAN/README.md">[CODE]</a>  
   **Chaohui Yu**, Jindong Wang, Yiqiang Chen, Meiyu Huang.  
   In *Proceedings of IEEE International Conference on Data Mining* (**ICDM-19**). Beijing, China. Nov. 8-11, 2019. Pages 778-786. (Full Paper, AC rate: 9.08%)
-- DrowsyDet: A Mobile Application for Real-Time Driver Drowsiness Detection.  
+3. DrowsyDet: A Mobile Application for Real-Time Driver Drowsiness Detection.  
   **Chaohui Yu**, Xin Qin, Yiqiang Chen, Jindong Wang, Chenchen Fan.  
   In *Proceedings of IEEE International Conference on Ubiquitous Intelligence and Computing* (**UIC-19**). Leicester, UK. Aug. 19-23, 2019. Pages 1-8. (Full paper)
-- FedHealth: A Federated Transfer Learning Framework for Wearable Healthcare. <a href="https://arxiv.org/pdf/1907.09173.pdf">[PDF]</a>  
+4. FedHealth: A Federated Transfer Learning Framework for Wearable Healthcare. <a href="https://arxiv.org/pdf/1907.09173.pdf">[PDF]</a>  
   Yiqiang Chen, Xin, Qin, Jindong Wang, **Chaohui Yu**, Wen Gao.  
   In *IJCAI-19 Workshop on Federated Machine Learning*. Macao, China. Aug. 10-16, 2019. Pages 1-8. (**Best Application Paper**)  
   To appear in *IEEE Intelligent Systems*.
-- Transfer Channel Prunning for Deep Unsupervised Domain Adaptation. <a href="http://link.springer.com/article/10.1007/s13042-019-01004-6">[LINK]</a>  
+5. Transfer Channel Prunning for Deep Unsupervised Domain Adaptation. <a href="http://link.springer.com/article/10.1007/s13042-019-01004-6">[LINK]</a>  
   **Chaohui Yu**, Jindong Wang, Yiqiang Chen, Xin Qin.  
   In *International Journal of Machine Learning and Cybernetics* (**IJMLC**). Volume 10, Issue 11, 2019. Pages 3129-3144.
-- Accelerating Deep Unsupervised Domain Adaptation with Transfer Channel Prunning. <a href="https://arxiv.org/pdf/1904.02654.pdf">[PDF]</a>  <a href="https://github.com/jindongwang/transferlearning/blob/master/code/deep/TCP/README.md">[CODE]</a>  
+6. Accelerating Deep Unsupervised Domain Adaptation with Transfer Channel Prunning. <a href="https://arxiv.org/pdf/1904.02654.pdf">[PDF]</a>  <a href="https://github.com/jindongwang/transferlearning/blob/master/code/deep/TCP/README.md">[CODE]</a>  
   **Chaohui Yu**, Jindong Wang, Yiqiang Chen, Zijing Wu.  
   In *Proceedings of International Joint Conference on Neural Networks* (**IJCNN-19**). Budapest, Hungary. July 14-19, 2019. Pages 1-8. (Full paper, Oral)
 
 ### Projects
 ---
-- xxx
+- Participating in a popular transfer learning resource projects on Github: <a href="http://transferlearning.xyz/">Transfer Learning</a>.
+- AI camera.
 
 ### Awards and Honors
 ---
