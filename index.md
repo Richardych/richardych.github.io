@@ -7,6 +7,8 @@
       <p><a href="https://scholar.google.com/citations?user=b1Q-k20AAAAJ&hl=en">Google Scholar</a>
          <a >|</a>
          <a href="https://www.zhihu.com/people/super-26-11">Zhihu</a>
+         <a >|</a>
+         <a href="https://richardych.github.io/resume.html">CV</a>
       </p>
       <p><b>Email：superhuiych@gmail.com</b></p>
     </td>
