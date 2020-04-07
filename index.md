@@ -25,22 +25,6 @@
 ---
 I'm currently pursuing a master degree at Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), I'm supposed to graduate in June 2020. After that, I'll be engaged in Computer Vision R&D at DAMO, Alibaba. My research interest includes but not limited to: Object Detection, Transfer Learning, Meta-Learning and related applications.
 
-<p>
-  <a [Research](#Research)</a>
-  <a >|</a>
-  <a href="">[Work Experience]</a>
-  <a >|</a>
-  <a href="">[Education]</a>
-  <a >|</a>
-  <a href="">[Publications]</a>
-  <a >|</a>
-  <a href="">[Projects]</a>
-  <a >|</a>
-  <a href="#Awards and Honors">[Awards and Honors]</a>
-  <a >|</a>
-  <a href="##Skills">[Skills]</a>
-</p>
-
 ### Research
 ---
 - Learning: machine learning, deep learning, transfer learning, meta-learning.
