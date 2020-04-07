@@ -7,8 +7,6 @@
       <p><a href="https://scholar.google.com/citations?user=b1Q-k20AAAAJ&hl=en">Google Scholar</a>
          <a >|</a>
          <a href="https://www.zhihu.com/people/super-26-11">Zhihu</a>
-         <a >|</a>
-         <a href="https://richardych.github.io/resume.html">CV</a>
       </p>
       <p><b>Email：superhuiych@gmail.com</b></p>
     </td>
@@ -26,6 +24,22 @@
 ### Short Bio
 ---
 I'm currently pursuing a master degree at Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), I'm supposed to graduate in June 2020. After that, I'll be engaged in Computer Vision R&D at DAMO, Alibaba. My research interest includes but not limited to: Object Detection, Transfer Learning, Meta-Learning and related applications.
+
+<p>
+  <a href="##Research">[Research]</a>
+  <a >|</a>
+  <a href="">[Work Experience]</a>
+  <a >|</a>
+  <a href="">[Education]</a>
+  <a >|</a>
+  <a href="">[Publications]</a>
+  <a >|</a>
+  <a href="">[Projects]</a>
+  <a >|</a>
+  <a href="">[Awards and Honors]</a>
+  <a >|</a>
+  <a href="">[Skills]</a>
+</p>
 
 ### Research
 ---
