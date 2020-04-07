@@ -36,9 +36,9 @@ I'm currently pursuing a master degree at Institute of Computing Technology, Chi
   <a >|</a>
   <a href="">[Projects]</a>
   <a >|</a>
-  <a href="">[Awards and Honors]</a>
+  <a href="#Awards and Honors">[Awards and Honors]</a>
   <a >|</a>
-  <a href="">[Skills]</a>
+  <a href="##Skills">[Skills]</a>
 </p>
 
 ### Research
