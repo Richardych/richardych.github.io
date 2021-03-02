@@ -19,11 +19,11 @@
 
 ### News
 ---
-- 2019-10: Paper Cross-dataset activity recognition via adaptive spatial-temporal transfer learning has been accepted by UbiComp 2020.
+- 2021-03: Our paper Instant-Teaching: An End-to-End Semi-Supervised Object Detection Framework has been accepted by CVPR 2021.
 
 ### Short Bio
 ---
-I'm currently pursuing a master degree at Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), I'm supposed to graduate in June 2020. After that, I'll be engaged in Computer Vision R&D at DAMO, Alibaba. My research interest includes but not limited to: Object Detection, Transfer Learning, Meta-Learning and related applications.
+I'm an algorithm engineer in DAMO, Alibaba. My research interest includes but not limited to: Object Detection, Transfer Learning, and related applications.
 
 ### Research
 ---
@@ -34,13 +34,10 @@ I'm currently pursuing a master degree at Institute of Computing Technology, Chi
 ---
 - Alibaba DAMO Academy, Beijing, China. (2019.06 - 2019.09)  
   Algorithm intern at Machine Intelligence.  
-  Engage in pedestrian and face detection.
 - Face++, Beijing, China. (2018.03 - 2018.12)  
   Algorithm intern at Detection Group.  
-  Engage in small face detection.
 - DeepGlint, Beijing, China. (2016.10 - 2017.02)  
   Algorithm intern at Algorithm Group.  
-  Engage in distributed crawler, face recognition, Caffe automatic training system.
 - Intel, Beijing, China. (2016.07 - 2016.10)  
   Development intern at Linux Kernel Dev and Test Group.
 
